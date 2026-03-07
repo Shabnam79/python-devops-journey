@@ -1,0 +1,2 @@
+Running servers: 3
+Stopped servers: 2

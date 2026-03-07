@@ -1,0 +1,5 @@
+web1 running
+web2 stopped
+db1 running
+cache1 stopped
+web3 running
