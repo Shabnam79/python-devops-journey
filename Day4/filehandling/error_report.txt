@@ -1,0 +1,2 @@
+ERROR: database connection failed
+error: timeout occurred
