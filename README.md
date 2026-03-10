@@ -45,8 +45,8 @@ CSV reporting
 
 Configuration file processing
 
-**Phase 3 – System & API Automation
-**
+**Phase 3 – System & API Automation**
+
 Disk space monitoring
 
 API health check scripts
