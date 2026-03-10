@@ -1,0 +1,4 @@
+ENV=production
+PORT=8080
+REPLICAS=3
+SERVICE=payment
